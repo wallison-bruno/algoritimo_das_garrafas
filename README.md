@@ -9,8 +9,8 @@ Ele resolve o seguinte problema:
  
 Passos para execução.
 
-1 - Com o terminal aberto, vá até o local onde se encontra o arquivo do algoritmo e execute o seguinte comando: $dart nome_do_arquivo.dart
-2 - Digite as entradas pedidas, caso deseje inserir um número com decimal, digite com ponto e NÃO virgula, por exemplo: $3.4
+1 - Com o terminal aberto, vá até o local onde se encontra o arquivo do algoritmo e execute o seguinte comando: $dart nome_do_arquivo.dart.
+2 - Digite as entradas pedidas, caso deseje inserir um número com decimal, digite com ponto e NÃO virgula, por exemplo: $3.4.
 3 - Após colocas todas as entradas o algoritmo gerará a resposta desejada.
 
 Não se deve fazer:
